@@ -1,0 +1,7 @@
+@import '_variables';
+
+body {
+  min-height: 100vh;
+  text-rendering: optimizeLegibility;
+  background: var(--bg-color);
+}
