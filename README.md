@@ -58,4 +58,4 @@ $ npm run build
 
 ## Licencia
 
-[MIT](LICENSE)
+MIT

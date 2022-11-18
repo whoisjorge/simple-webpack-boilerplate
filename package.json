@@ -2,18 +2,6 @@
   "name": "simple-webpack-boilerplate",
   "version": "1.0.0",
   "description": "Un entorno de desarrollo JavaScript sencillo y moderno con Webpack como herramienta de compiación.",
-  "keywords": [
-    "webpack",
-    "webpack-boilerplate",
-    "webpack4",
-    "javascript"
-  ],
-  "author": "Jorge Moliner (https://whoisjorge.me)",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/whoisjorge/simple-webpack-boilerplate.git"
-  },
   "scripts": {
     "dev": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
